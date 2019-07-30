@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "GDG Bouskoura Web App",
+  "short_name": "GDG Bouskoura Web App",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
