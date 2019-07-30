@@ -1,46 +1,19 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "name":"Mohamed Moughamir",
+        "designation":"Entrepreneur & Web Developer",
+        "twitter":"https://twitter.com/omnizya",
+        "linkedin":"https://www.linkedin.com/in/moughamir",
+        "github":"https://github.com/moughamir",
+        "profileImage":"https://avatars1.githubusercontent.com/u/8163598?s=460&v=4",
+        "website":"https://omnizya.com"
     },
     {
-        "name":"Name",
+        "name":"You",
         "designation":"Management",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     }
